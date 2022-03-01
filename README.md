@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acagua
 - 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning React and Blockchain
+- 🌱 I’m experienced with React and currently learning Blockchain
 - 📫 You can reach me at af.cagua1011@gmail.com
 
 <!---
